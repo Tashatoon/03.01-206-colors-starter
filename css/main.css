@@ -75,6 +75,9 @@ footer {
   footer {
     background-color: grey;
   }
+  .col-3 {
+    width: 50%;
+  }
 }
 
 /*---------- Desktops ----------*/
@@ -97,5 +100,8 @@ footer {
 
   footer {
     background-color: grey;
+  }
+  .col-3 {
+    width: 50%;
   }
 }
